@@ -10,4 +10,4 @@ Neste repositório se encontra toda a documentação do projeto. Em breve, darei
 
 No momento, o arquivo mais importante é o estudo de caso. Nele, eu detalho tudo sobre o desenvolvimento do projeto e outras coisas. 
 
-[Estudo de caso](https://github.com/AlexJLima/comanda-digital/blob/main/Comanda%20digital/Documenta%C3%A7%C3%A3o/Estudo%20de%20caso%20-%20Restaurante%20da%20maria.pdf)
+* [Estudo de caso](https://github.com/AlexJLima/comanda-digital/blob/main/Comanda%20digital/Documenta%C3%A7%C3%A3o/Estudo%20de%20caso%20-%20Restaurante%20da%20maria.pdf)
